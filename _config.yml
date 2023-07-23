@@ -18,8 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 梁氏家古法压榨有限公司
 email      : liangshijia.com.cn@hotmail.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+description: "百年做好油"
+author     : 老河口市梁氏家古法压榨有限公司
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
