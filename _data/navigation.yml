@@ -93,5 +93,5 @@ ch: &DEFAULT_CN
       section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
+ch-CN:
+  <<: *DEFAULT_CN
