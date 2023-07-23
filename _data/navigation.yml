@@ -77,3 +77,21 @@ de: &DEFAULT_DE
       url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
   <<: *DEFAULT_DE
+ch: &DEFAULT_CN
+  nav:
+    - title: "服务"
+      section: services
+    - title: "产品"
+      section: portfolio
+    - title: "关于"
+      section: about
+    - title: "时间线"
+      section: timeline
+    - title: "团队"
+      section: team
+    - title: "联系"
+      section: contact
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
+en-US:
+  <<: *DEFAULT_EN
